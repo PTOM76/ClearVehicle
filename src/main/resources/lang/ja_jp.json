@@ -1,0 +1,22 @@
+{
+    "language": "日本語",
+    "logo": "§f[§b%mod_name%§f]",
+    "error_msg1": "§cエラー: あなたにそのコマンドを実行する権限はありません。",
+    "error_msg2": "§cエラー: 数値が記入されていません。",
+    "error_msg3": "§cエラー: 設定値は数値にしてください。",
+    "error_msg4": "§cエラー: そのコマンドは存在しません。\nコマンドは「/cv help」で確認してください。",
+    "error_msg5": "§c使い方: /cv msg [true|false]",
+    "msg1": "§7config.ymlをリロードしました。",
+    "msg2": "§a機能を有効にしました。",
+    "msg3": "§c機能を無効にしました。",
+    "msg4": "§a削除メッセージを有効にしました。",
+    "msg5": "§c削除メッセージを無効にしました。",
+    "msg6": "設定値を%entities_max%にしました。",
+    "cmdlist1": "§d/cv help§7...§b%mod_name%のコマンドリストを確認できます。",
+    "cmdlist2": "§d/cv [enable|on]§7...§bこのプラグインを有効にすることができます。",
+    "cmdlist3": "§d/cv [disable|off]§7...§bこのプラグインを無効にすることができます。",
+    "cmdlist4": "§d/cv msg [true|false]§7...§bエンティティ削除のメッセージの表示切り替えができます。",
+    "cmdlist5": "§d/cv amount (数値)§7...§bトロッコ類が設定値よりも多いとき、トロッコ類を自動的に削除する設定値を変更できます。(デフォルトでは15)",
+    "cmdlist6": "§d/cv viewconf§7...§bconfig.ymlの設定をゲーム内で確認できます。",
+    "cmdlist7": "§d/cv reload§7...§bconfig.ymlを再読み込みします。"
+}

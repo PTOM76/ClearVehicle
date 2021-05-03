@@ -1,0 +1,57 @@
+main: ml.pkom.clearvehicle.Plugin
+name: ClearVehicle
+description: "This plugin is ClearVehicle."
+version: "1.0.2"
+author: "Pitan"
+website: "http://pkom.ml/?Minecraft/Spigot/%E8%87%AA%E4%BD%9C%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3"
+commands:
+  clearvehicle:
+    description: "Message 'Hello World!' to player"
+    aliases: [cv]
+    usage: "/clearvehicle"
+    permission: clearvehicle.command
+permissions:
+  clearvehicle.*:
+    description: "All ClearVehicle's permissions."
+    default: op
+    children:
+      clearvehicle.command: true
+      clearvehicle.command.help: true
+      clearvehicle.command.reload: true
+      clearvehicle.command.viewconf: true
+      clearvehicle.command.switch: true
+      clearvehicle.command.msg: true
+      clearvehicle.command.amount: true
+      clearvehicle.command.*: true
+  clearvehicle.command.*:
+    description: "/cv [xxx] [xxx]"
+    default: op
+    children:
+      clearvehicle.command: true
+      clearvehicle.command.help: true
+      clearvehicle.command.reload: true
+      clearvehicle.command.viewconf: true
+      clearvehicle.command.switch: true
+      clearvehicle.command.msg: true
+      clearvehicle.command.amount: true
+  clearvehicle.command:
+    description: "/cv"
+    default: true
+  clearvehicle.command.help:
+    description: "/cv help"
+    default: true
+  clearvehicle.command.reload:
+    description: "/cv reload"
+    default: op
+  clearvehicle.command.viewconf:
+    description: "/cv viewconf"
+    default: op
+  clearvehicle.command.switch:
+    description: "/cv [enable/disable/on/off]"
+    default: op
+  clearvehicle.command.msg:
+    description: "/cv msg [true/false]"
+    default: op
+  clearvehicle.command.amount:
+    description: "/cv amount [int]"
+    default: op

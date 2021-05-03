@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="ml.pkom.AppTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.3+7-LTS"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Amazon Corretto\jdk11.0.3_7\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\workspace\Spigot\test\clearVehicle"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="JP"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\workspace\Spigot\test\clearVehicle"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.3+7-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ptms7\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\workspace\Spigot\test\clearVehicle\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.library.path" value="D:\Program Files\Amazon Corretto\jdk11.0.3_7\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Program Files (x86)\php-7.4.12-Win32-vc15-x64;D:\Program Files\Amazon Corretto\jdk11.0.3_7\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\EmEditor;C:\Gradle\gradle-6.0.1\bin;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Users\ptms7\AppData\Local\Programs\Python\Python36;D:\Users\ptms7\AppData\Local\Programs\Python\Python36\Scripts;C:\Program Files (x86)\ZeroTier\One\;D:\Program Files\nodejs\;D:\Program Files\WorldPainter;D:\Program Files\Git\cmd;C:\Users\ptms7\scoop\shims;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\EmEditor;C:\Gradle\gradle-6.0.1\bin;C:\Program Files\Java\jdk1.8.0_231\bin;D:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\ptms7\AppData\Local\Microsoft\WindowsApps;C:\Users\ptms7\AppData\Local\Android\Sdk\platform-tools;D:\Program Files\Microsoft VS Code\bin;D:\Program Files\ffmpeg\ffmpeg-20200131-62d92a8-win64-static\bin;C:\Program Files\Imaginando\DLYM;D:\Program Files\heroku\bin;C:\Users\ptms7\AppData\Local\GitHubDesktop\bin;C:\Users\ptms7\AppData\Roaming\npm;D:\MinGW\bin;C:\Users\ptms7\.dotnet\tools;C:\Users\ptms7\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\GitHub CLI\;C:\Users\ptms7\.dotnet\tools;."/>
+    <property name="maven.conf" value="D:\workspace\Spigot\test\clearVehicle\maven\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="D:\workspace\Spigot\test\clearVehicle\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\ptms7"/>
+    <property name="user.timezone" value="Asia/Tokyo"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="MS932"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="ptms7"/>
+    <property name="java.class.path" value="D:\workspace\Spigot\test\clearVehicle\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install -f ./pom.xml"/>
+    <property name="java.home" value="D:\Program Files\Amazon Corretto\jdk11.0.3_7"/>
+    <property name="user.language" value="ja"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.3"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="sun.stderr.encoding" value="ms932"/>
+    <property name="maven.home" value="D:\workspace\Spigot\test\clearVehicle\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2019-04-16"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Corretto-11.0.3.7.1"/>
+    <property name="sun.stdout.encoding" value="ms932"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="ml.pkom.AppTest" name="shouldAnswerWithTrue" time="0.003"/>
+</testsuite>

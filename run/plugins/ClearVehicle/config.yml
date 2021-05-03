@@ -1,0 +1,8 @@
+plugin:
+  MOD_NAME: ClearVehicle
+  MOD_VER: 1.0.2
+clearIsTrue: true
+clearMsg: true
+entitiesMax: 30
+targetEntities: MINECART,MINECART_CHEST,MINECART_COMMAND,MINECART_FURNACE,MINECART_HOPPER,MINECART_MOB_SPAWNER,MINECART_TNT
+language: ja_jp

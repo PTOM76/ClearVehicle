@@ -1,0 +1,21 @@
+{
+    "language": "English",
+    "logo": "§f[§b%mod_name%§f]",
+    "error_msg1": "§cError: You do not have permission to execute that command.",
+    "error_msg2": "§cError: No numbers are entered.",
+    "error_msg3": "§cError: Set the value to a numerical value.",
+    "error_msg4": "§cError: The command does not exist.\nCheck the command with \"/ cv help\".",
+    "msg1": "§7Reloaded config.yml.",
+    "msg2": "§aThe function has been enabled.",
+    "msg3": "§cThe function has been disabled.",
+    "msg4": "§aEnabled view the delete message.",
+    "msg5": "§cDisabled view the delete message.",
+    "msg6": "The set value is set to %entities_max%.",
+    "cmdlist1": "§d/cv help§7...§bThis command can check the command list of %mod_name%.",
+    "cmdlist2": "§d/cv [enable|on]§7...§bThis command can enable this plugin.",
+    "cmdlist3": "§d/cv [disable|off]§7...§bThis command can disable this plugin.",
+    "cmdlist4": "§d/cv msg [true|false]§7...§bThis command can switch the display of the entity deletion message.",
+    "cmdlist5": "§d/cv amount (integer)§7...§bWhen there are more minecarts than the set value, you can change the set value to automatically delete the minecarts. (15 by default)",
+    "cmdlist6": "§d/cv viewconf§7...§bThis command can check the settings in config.yml in game.",
+    "cmdlist7": "§d/cv reload§7...This command can reload config.yml."
+}
